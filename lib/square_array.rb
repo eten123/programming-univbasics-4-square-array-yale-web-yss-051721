@@ -11,12 +11,12 @@
 
 #def square_array(numbers)
 #  new_numbers = []
-  count = 0 
+#  count = 0 
 #  while count < array.length do
     
-  end 
+#  end 
   new_numbers << (num ** 2)
-  return new_numbers
+#  return new_numbers
 end
 
 def square_array(numbers)
