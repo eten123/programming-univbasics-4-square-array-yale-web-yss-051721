@@ -23,11 +23,14 @@ def square_array(numbers)
 counter = 0
 numbers = [1,2,3,4,5]
 new_numbers = []
-while numbers[counter] do
+
+while counter < numbers.length do
   new_numbers << (num ** 2)
   counter += 1
 end
 end
+
+
 
 #def square_array(numbers)
 #    new_numbers = []
