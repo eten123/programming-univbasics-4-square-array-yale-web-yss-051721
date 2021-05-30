@@ -21,9 +21,7 @@
 
 def square_array(numbers)
 counter = 0
-numbers = [1,2,3,4,5]
 new_numbers = []
-
 while counter < numbers.length do
   new_numbers << (numbers[counter] ** 2)
   counter += 1
