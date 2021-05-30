@@ -15,9 +15,9 @@
 #  while count < array.length do
     
 #  end 
-  new_numbers << (num ** 2)
+#  new_numbers << (num ** 2)
 #  return new_numbers
-end
+#end
 
 def square_array(numbers)
 counter = 0
